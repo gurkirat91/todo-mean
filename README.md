@@ -1,24 +1,15 @@
-# MERN_ToDoList(MongoDB, ExpressJS, ReactJS, NodeJS).
-
-## Requirements to run
-
-This app uses [MongoDB](https://www.mongodb.com/).
-## Available Scripts
-
-In the project directory, you must run:
-
+#ToDoList
 ### `npm install`
 
 To install the packages.
 
-### `npm run frontend-install`
-
+### `cd frontend`
+### `npm install`
+### `cd ..`
 To install the frontend packages.
 
 ### `npm run app`
 
-Runs the app in [http://localhost:3000](http://localhost:3000).
-The server runs in 3001 portal.
 
 ## Usage
 
